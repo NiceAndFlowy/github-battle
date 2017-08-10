@@ -1,6 +1,6 @@
 # Github Battle
 
-One Paragraph of project description goes here
+Compares two github users through a calculated score based on the users's number of followers and repository stars. 
 
 ## Getting Started
 
